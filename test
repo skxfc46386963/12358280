@@ -1,2 +1,3 @@
+if (out != null) {
 public static void main(String[] args)
 hello world
