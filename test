@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 while (rs.next())
 Class.forName(driverClass);
 if (out != null) {
