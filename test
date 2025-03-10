@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 String password = props.getProperty("db.password");
 public class OracleJdbcTest
 while (rs.next())
