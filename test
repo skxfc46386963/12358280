@@ -1,3 +1,4 @@
+// error processing code
 con=DriverManager.getConnection(url, userName, password);
 public class OracleJdbcTest
 String password = props.getProperty("db.password");
