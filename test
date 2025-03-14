@@ -1,3 +1,4 @@
+public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
 // error processing code
 con=DriverManager.getConnection(url, userName, password);
 public class OracleJdbcTest
