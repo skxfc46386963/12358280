@@ -1,3 +1,4 @@
+if (out != null) {
 Connection con;
 ResultSet rs = ps.executeQuery();
 String userName = props.getProperty("db.user");
