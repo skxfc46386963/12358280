@@ -1,3 +1,4 @@
+} finally {
 if (out != null) {
 Connection con;
 ResultSet rs = ps.executeQuery();
