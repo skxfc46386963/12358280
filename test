@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 con=DriverManager.getConnection(url, userName, password);
 } finally {
 if (out != null) {
