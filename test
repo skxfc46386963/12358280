@@ -1,4 +1,6 @@
 } catch (IOException e) {
+
+} catch (IOException e) {
 BufferedWriter out = null;
 con=DriverManager.getConnection(url, userName, password);
 } finally {
